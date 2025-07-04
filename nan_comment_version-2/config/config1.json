@@ -1,0 +1,8 @@
+{"directory_path": {
+    "directory_bau_reports":"DQC Report\\DQC Report\\BauReports\\FinalBauReports",
+    "directory_historical_updates":"DQC Report\\DQC Report\\Curve Reports\\Pricing - Historical updates",
+    "directory_missing_stale":"DQC Report\\DQC Report\\Curve Reports\\Curve Data -Missing Stale",
+    "directory_reconcilation":"DQC Report\\DQC Report\\Curve Reports\\Reconciliation - CXL"
+    }
+}
+

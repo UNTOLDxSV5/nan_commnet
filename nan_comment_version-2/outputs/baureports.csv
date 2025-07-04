@@ -1,0 +1,1 @@
+source,COMMODITY_TYPE,DB_OBJECT_SCHEMA,DB_OBJECT_NAME,DB_OBJECT_DISPLAY_NAME,grouping_var,date,date_opr,DATE_INSERTED,every_n_days,schedule_pattern,tmlns_eta,tmlns_cutoff,validation_timestamp,day_of_arrival,last_date_arrival,missing,late,out_of_schedule,curve_list,is_manual_input,broker,comment,count_curve_dependencies,Unnamed: 24
